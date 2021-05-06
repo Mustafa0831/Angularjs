@@ -22,4 +22,4 @@ If you want to change the API URL to a local server, simply edit `src/js/config/
 
 <br />
 
-[![Brought to you by Thinkster](https://github.com/Mustafa0831/Angular-RealWorld-App.git)](https://thinkster.io)
+
